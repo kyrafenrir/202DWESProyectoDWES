@@ -13,5 +13,5 @@ Documentacion de la asignatura desarrollo web en entorno servidor / DWES
 [http://daw202.isauces.local/202DWESProyectoDWES/indexProyectoDWES.php]
 (Entorno de desarrollo de Erika)
 ## Entorno de explotacion
-[http://daw202.ieslossauces.local/202DWESProyectoDWES/indexProyectoDWES.php]
+[http://daw202.ieslossauces.es/202DWESProyectoDWES/indexProyectoDWES.php]
 (Entorno de explotación de Erika)
