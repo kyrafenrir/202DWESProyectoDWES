@@ -23,7 +23,7 @@
                     <strong>TEMA 2:</strong> INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DE LOS ENTORNOS
                     <ul class="menu">
                         <li><a href="doc/EjerciciosTema2.pdf" target="_blank">DOCUMENTACION ENTORNO DE DESARROLLO Y EXPLOTACION EN PHP</a></li>
-                        <li><a>ESTUDIO DE CLASES Y FUNCIONES PHP</a></li>
+                        <li><a href="doc/EjerciciosClasePDO.pdf" target="_blank">ESTUDIO DE CLASES Y FUNCIONES PHP</a></li>
                     </ul>
                 </li>
                 <li><a href="/202DWESProyectoTema3/indexProyectoTema3.php"><strong>TEMA 3:</strong> CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
