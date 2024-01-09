@@ -35,6 +35,12 @@
                         <li><a href="/202DWESLoginLogoffTema5/indexLoginLogoff.php">APLICACION LOGIN LOGOFF</a></li>
                     </ul>
                 </li>
+                <li>
+                    <strong>TEMA 6:</strong> PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP
+                    <ul class="menu">
+                        <li><a href="#">APLICACION LOGIN LOGOFF MULTICAPA</a></li>
+                    </ul>
+                </li>
             </ol>
         </main>
         <footer>
