@@ -38,7 +38,13 @@
                 <li>
                     <strong>TEMA 6:</strong> PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP
                     <ul class="menu">
-                        <li><a href="#">APLICACION LOGIN LOGOFF MULTICAPA</a></li>
+                        <li><a href="/202DWESLoginLogoffMulticapaPOO/index.php">APLICACION LOGIN LOGOFF MULTICAPA</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>TEMA 7:</strong> PROGRAMACIÓN DE SERVICIOS WEB 
+                    <ul class="menu">
+                        <li><a href="/202DWESAplicacionFinalErika2024/index.php">APLICACION FINAL</a></li>
                     </ul>
                 </li>
             </ol>
